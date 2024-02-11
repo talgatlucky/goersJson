@@ -7,10 +7,10 @@
     "https://lvapi.liveme.com/Game/gVideoList?alias=liveme&tongdun_black_box=qWPUF1690446110Q1YegWbl7He&os=&h5=1&_time=1690447059679&countryCode=KZ&page_index=1&page_size=20"
   ],
   "arrayP": [
-    "https://www.pexels.com/ru-RU/search/videos/girl/?size=large&orientation=square",
-    "https://www.pexels.com/ru-RU/search/videos/Snap/?size=large&orientation=square",
-    "https://www.pexels.com/ru-RU/search/videos/Dance/?size=large&orientation=square",
-    "https://www.pexels.com/ru-RU/search/videos/Travel/?size=large&orientation=square",
-    "https://www.pexels.com/ru-RU/search/videos/Game/?size=large&orientation=square"
+    "https://www.pexels.com/ru-RU/search/videos/girl/",
+    "https://www.pexels.com/ru-RU/search/videos/Snap/",
+    "https://www.pexels.com/ru-RU/search/videos/Dance/",
+    "https://www.pexels.com/ru-RU/search/videos/Travel/",
+    "https://www.pexels.com/ru-RU/search/videos/Game/"
   ]
 }
